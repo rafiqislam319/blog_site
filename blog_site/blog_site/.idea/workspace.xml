@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3a13b3f-2bf9-4cc5-99a5-0594b111030d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/day_19/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-44377204">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="3" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="6" />
+          <entry key="md" value="1" />
+          <entry key="php" value="139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="6" />
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="139" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="283" />
+          <entry key="php" value="12451" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="283" />
+          <entry key="PHP" value="12451" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day_17/full-name.php" />
+        <option value="$PROJECT_DIR$/day_17/FullName.php" />
+        <option value="$PROJECT_DIR$/day_17/calculator.php" />
+        <option value="$PROJECT_DIR$/day_17/view.php" />
+        <option value="$PROJECT_DIR$/day_17/Demo.php" />
+        <option value="$PROJECT_DIR$/day_17/Example.php" />
+        <option value="$PROJECT_DIR$/day_18/view.php" />
+        <option value="$PROJECT_DIR$/day_18/Demo.php" />
+        <option value="$PROJECT_DIR$/day_19/Example.php" />
+        <option value="$PROJECT_DIR$/day_19/app/classes/Student.php" />
+        <option value="$PROJECT_DIR$/day_19/view.php" />
+        <option value="$PROJECT_DIR$/day_19/composer.json" />
+        <option value="$PROJECT_DIR$/day_19/test/demo.php" />
+        <option value="$PROJECT_DIR$/day_20/app/classes/Student.php" />
+        <option value="$PROJECT_DIR$/day_20/add-students.php" />
+        <option value="$PROJECT_DIR$/day_20/view-student.php" />
+        <option value="$PROJECT_DIR$/day_21/edit-student.php" />
+        <option value="$PROJECT_DIR$/day_21/app/classes/Student.php" />
+        <option value="$PROJECT_DIR$/day_21/view-student.php" />
+        <option value="$PROJECT_DIR$/day_22/blog/index.php" />
+        <option value="$PROJECT_DIR$/day_22/blog/composer.json" />
+        <option value="$PROJECT_DIR$/day_22/blog/app/classes/Database.php" />
+        <option value="$PROJECT_DIR$/day_22/blog/app/classes/Login.php" />
+        <option value="$PROJECT_DIR$/day_22/blog/admin/index.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/bitm.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/app/classes/Login.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/index.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/dashboard.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/add-category.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/manage-category.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/includes/menu.php" />
+        <option value="$PROJECT_DIR$/day_23/blog/admin/add-blog.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/app/classes/CategoryInfo.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/add-category.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/includes/menu.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/app/classes/Category.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/manage-category.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/edit-category.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/manage-blog.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/file-upload.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/add-blog.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/admin/edit-blog.php" />
+        <option value="$PROJECT_DIR$/day_24/file-upload/file-upload.php" />
+        <option value="$PROJECT_DIR$/day_24/blog/app/classes/Blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/admin/add-blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/admin/manage-blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/admin/particular-view-blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/admin/edit-blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/app/classes/Blog.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/app/classes/Application.php" />
+        <option value="$PROJECT_DIR$/day_25/blog/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/day_19/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="5" />
+    <option name="width" value="881" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day_25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day_25" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day_25" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day_25" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SEIP-PHP-71" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SEIP-PHP-71" type="462c0819:PsiDirectoryNode" />
+              <item name="day_25" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php71" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xamppInstall\htdocs\SEIP-PHP-71\day_25\blog\assets" />
+      <recent name="E:\xamppInstall\htdocs\SEIP-PHP-71\day_25" />
+      <recent name="E:\xamppInstall\htdocs\SEIP-PHP-71\day_24\All CRUD operation" />
+      <recent name="E:\xamppInstall\htdocs\SEIP-PHP-71\day_24" />
+      <recent name="E:\xamppInstall\htdocs\SEIP-PHP-71\day_23" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a13b3f-2bf9-4cc5-99a5-0594b111030d" name="Default Changelist" comment="" />
+      <created>1546758665746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546758665746</updated>
+      <workItem from="1546758672452" duration="1224000" />
+      <workItem from="1546951419888" duration="2823000" />
+      <workItem from="1546958694498" duration="3303000" />
+      <workItem from="1547036870292" duration="5767000" />
+      <workItem from="1547443989402" duration="6446000" />
+      <workItem from="1547526659538" duration="13210000" />
+      <workItem from="1547612738787" duration="8102000" />
+      <workItem from="1547642404960" duration="5170000" />
+      <workItem from="1547697716172" duration="19135000" />
+      <workItem from="1547781715639" duration="7405000" />
+      <workItem from="1547813580716" duration="13340000" />
+      <workItem from="1547875407251" duration="18545000" />
+      <workItem from="1547956358800" duration="3567000" />
+      <workItem from="1547987108889" duration="8191000" />
+      <workItem from="1548043982040" duration="12978000" />
+      <workItem from="1548062133777" duration="14877000" />
+      <workItem from="1548680572238" duration="10303000" />
+      <workItem from="1548735420185" duration="22452000" />
+      <workItem from="1548819978457" duration="30536000" />
+      <workItem from="1548949692469" duration="597000" />
+      <workItem from="1548995419461" duration="2709000" />
+      <workItem from="1549016555049" duration="18262000" />
+      <workItem from="1549118529921" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229184000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="5" width="881" height="720" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3130329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936507" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4672269" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day_19/test/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_21/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_22/blog/app/classes/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_22/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_22/blog/app/classes/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_22/blog/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="6" selection-start-line="27" selection-end-line="68" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/app/classes/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/bitm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/manage-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/includes/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/add-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="69" column="84" selection-start-line="69" selection-start-column="84" selection-end-line="69" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_20/view-student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_21/add-students.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_21/view-student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_21/edit-student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/app/classes/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_23/blog/admin/add-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/app/classes/CategoryInfo.php" />
+    <entry file="file://$PROJECT_DIR$/day_22/blog/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/bitm.php" />
+    <entry file="file://$PROJECT_DIR$/day_24/blog/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_20/app/classes/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_20/add-students.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/app/classes/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/includes/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_21/app/classes/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/edit-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/app/classes/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/file-upload.php" />
+    <entry file="file://$PROJECT_DIR$/day_24/All CRUD operation/blog/app/classes/Blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/add-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/manage-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/manage-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="78" column="151" selection-start-line="78" selection-start-column="151" selection-end-line="78" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/edit-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="67" column="41" lean-forward="true" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/file-upload/file-upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/admin/add-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/assets/tinymce/js/tinymce/langs/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/admin/particular-view-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_24/blog/app/classes/Blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/admin/add-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/app/classes/Blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/admin/manage-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/admin/edit-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="80" column="53" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_25/blog/app/classes/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
